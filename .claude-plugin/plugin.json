@@ -15,6 +15,7 @@
     "./skills/akka/management",
     "./skills/aspire/integration-testing",
     "./skills/csharp/coding-standards",
+    "./skills/csharp/concurrency-patterns",
     "./skills/data/efcore-patterns",
     "./skills/dotnet/project-structure",
     "./skills/dotnet/local-tools",
